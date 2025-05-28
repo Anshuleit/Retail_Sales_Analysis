@@ -29,4 +29,4 @@ This project performs exploratory data analysis (EDA) on a retail sales dataset 
 
 
 ## 👩‍💻 Author
-[ANSHUL]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anshul-dahiya-917bb5127/)
+[ANSHUL](https://www.linkedin.com/in/anshul-dahiya-917bb5127/)
